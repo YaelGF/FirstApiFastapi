@@ -26,7 +26,7 @@ uvicorn main:app --host 0.0.0.0 --port 8080 --reload
 # Run the project
 
 ## Endpoints
-![endpoints](/assets/enpoints.png)
+![endpoints](/assets/endpoints.png)
 
 ## Clientes
 ![clientes](/assets/Pruebas.png)
